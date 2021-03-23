@@ -1,0 +1,13 @@
+E:\Unity\Atividades de Laboratório\Lab2\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.csprojAssemblyReference.cache
+E:\Unity\Atividades de Laboratório\Lab2\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.AssemblyInfoInputs.cache
+E:\Unity\Atividades de Laboratório\Lab2\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.AssemblyInfo.cs
+E:\Unity\Atividades de Laboratório\Lab2\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.csproj.CoreCompileInputs.cache
+E:\Unity\Atividades de Laboratório\Lab2\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.exe
+E:\Unity\Atividades de Laboratório\Lab2\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.deps.json
+E:\Unity\Atividades de Laboratório\Lab2\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.runtimeconfig.json
+E:\Unity\Atividades de Laboratório\Lab2\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.runtimeconfig.dev.json
+E:\Unity\Atividades de Laboratório\Lab2\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.dll
+E:\Unity\Atividades de Laboratório\Lab2\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.pdb
+E:\Unity\Atividades de Laboratório\Lab2\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.dll
+E:\Unity\Atividades de Laboratório\Lab2\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.pdb
+E:\Unity\Atividades de Laboratório\Lab2\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.genruntimeconfig.cache
