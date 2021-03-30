@@ -6,17 +6,17 @@ namespace Exercicio3
 {
     class JogoDigital : Produto
     {
+        public string Plataforma { get; private set; }
+
         public JogoDigital(string titulo, double preco, string plataforma) : base(titulo, preco)
         {
             Plataforma = plataforma;
         }
-
-        public string Console { get; private set; }
-        
+    
 
         public override void InformarDescricao()
         {
-            Console.WriteLine($"{Titulo} para {Plataforma}");
+            Console.WriteLine("{0} para {1}", Titulo, Plataforma);
         }
 
 

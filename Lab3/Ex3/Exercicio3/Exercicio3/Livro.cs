@@ -6,7 +6,7 @@ namespace Exercicio3
 {
     class Livro : Produto
     {
-        public Livro(string titulo, string autor) : base(titulo, autor)
+        public Livro(string titulo,double preco, string autor) : base(titulo, preco)
         {
             Autor = autor;
         }
@@ -14,7 +14,7 @@ namespace Exercicio3
         public string Autor { get; private set; }
         public override void InformarDescricao()
         {
-            Console.WriteLine($"{Titulo} escrito por {Autor}");
+            Console.WriteLine($"{0} escrito por {1}", Titulo, Autor);
         }
     }
 }

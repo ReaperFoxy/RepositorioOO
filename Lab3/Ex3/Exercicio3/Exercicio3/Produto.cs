@@ -16,11 +16,11 @@ namespace Exercicio3
             Preco = preco;
         }
 
-        protected virtual void InformarDescricao()
+        public virtual void InformarDescricao()
         {
-            Console.WriteLine("Item da loja");
+            Console.WriteLine("Item da loja:");
         }
-        protected virtual void InformarPreco()
+        public void InformarPreco()
         {
             Console.WriteLine($"{Preco.ToString("C")}");
         }

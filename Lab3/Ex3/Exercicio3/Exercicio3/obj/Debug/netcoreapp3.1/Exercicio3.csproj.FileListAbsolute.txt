@@ -1,0 +1,13 @@
+E:\Unity\Atividades de Laboratório\Lab3\Ex3\Exercicio3\Exercicio3\bin\Debug\netcoreapp3.1\Exercicio3.exe
+E:\Unity\Atividades de Laboratório\Lab3\Ex3\Exercicio3\Exercicio3\bin\Debug\netcoreapp3.1\Exercicio3.deps.json
+E:\Unity\Atividades de Laboratório\Lab3\Ex3\Exercicio3\Exercicio3\bin\Debug\netcoreapp3.1\Exercicio3.runtimeconfig.json
+E:\Unity\Atividades de Laboratório\Lab3\Ex3\Exercicio3\Exercicio3\bin\Debug\netcoreapp3.1\Exercicio3.runtimeconfig.dev.json
+E:\Unity\Atividades de Laboratório\Lab3\Ex3\Exercicio3\Exercicio3\bin\Debug\netcoreapp3.1\Exercicio3.dll
+E:\Unity\Atividades de Laboratório\Lab3\Ex3\Exercicio3\Exercicio3\bin\Debug\netcoreapp3.1\Exercicio3.pdb
+E:\Unity\Atividades de Laboratório\Lab3\Ex3\Exercicio3\Exercicio3\obj\Debug\netcoreapp3.1\Exercicio3.csprojAssemblyReference.cache
+E:\Unity\Atividades de Laboratório\Lab3\Ex3\Exercicio3\Exercicio3\obj\Debug\netcoreapp3.1\Exercicio3.AssemblyInfoInputs.cache
+E:\Unity\Atividades de Laboratório\Lab3\Ex3\Exercicio3\Exercicio3\obj\Debug\netcoreapp3.1\Exercicio3.AssemblyInfo.cs
+E:\Unity\Atividades de Laboratório\Lab3\Ex3\Exercicio3\Exercicio3\obj\Debug\netcoreapp3.1\Exercicio3.csproj.CoreCompileInputs.cache
+E:\Unity\Atividades de Laboratório\Lab3\Ex3\Exercicio3\Exercicio3\obj\Debug\netcoreapp3.1\Exercicio3.dll
+E:\Unity\Atividades de Laboratório\Lab3\Ex3\Exercicio3\Exercicio3\obj\Debug\netcoreapp3.1\Exercicio3.pdb
+E:\Unity\Atividades de Laboratório\Lab3\Ex3\Exercicio3\Exercicio3\obj\Debug\netcoreapp3.1\Exercicio3.genruntimeconfig.cache
